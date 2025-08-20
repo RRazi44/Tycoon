@@ -1,0 +1,10 @@
+name: Tycoon
+version: 1.0.0
+main: fr.razi.Tycoon
+author: Razi
+api-version: 1.21.8
+commands:
+  tycoon:
+    description: Tycoon main command
+    usage: /tycoon
+    aliases: [t]
